@@ -1,0 +1,19 @@
+{
+  "name": "project-management-system",
+  "version": "1.0.0",
+  "description": "server for project-management-system",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sajidmahamud835/project-management-system.git"
+  },
+  "author": "sajidmahamud835",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sajidmahamud835/project-management-system/issues"
+  },
+  "homepage": "https://github.com/sajidmahamud835/project-management-system#readme"
+}
