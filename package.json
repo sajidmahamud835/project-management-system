@@ -1,0 +1,31 @@
+{
+  "name": "project-management-system",
+  "version": "1.0.0",
+  "description": "A project management system for freelancing project management.",
+  "main": "client/src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sajidmahamud835/project-management-system.git"
+  },
+  "keywords": [
+    "pms",
+    "project",
+    "project",
+    "management",
+    "project",
+    "management",
+    "software",
+    "project",
+    "management",
+    "system"
+  ],
+  "author": "sajidmahamud835",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sajidmahamud835/project-management-system/issues"
+  },
+  "homepage": "https://github.com/sajidmahamud835/project-management-system#readme"
+}
